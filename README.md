@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Detection using CNN
+# 🧠 Brain Tumor Detection using CNN 
 
 A deep learning project for detecting brain tumors from MRI scans using a **Convolutional Neural Network (CNN)** built with TensorFlow/Keras. The system classifies MRI images as **Tumour** or **No Tumour** and additionally highlights the suspected tumour region using an OpenCV-based localization technique.
 
